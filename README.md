@@ -1,5 +1,5 @@
 # ai-learning
-this is a repository for learning ai and posting simple ai project for testing and development
+this is a repository for learning ai and posting simple ai projects for testing and development
 
 ## Role Player
 A role-playing AI that can take on different personas and interact with users in a conversational manner.
